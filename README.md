@@ -1,4 +1,4 @@
 pinkpolygon
 ===========
 
-Gay Web Mapping for a Happier World
+GIS and Gay Web Mapping for a Happier World
